@@ -20,7 +20,7 @@ The [testfiles](testfiles) directory contains test files for the following opera
 - lt32, lt64
 - le32, le64
 
-To generate testfiles for the fused-multiply add operation, run the following commands:
+To generate test files for the fused-multiply add operation, run the following commands:
 ```bash
 $ ./mktests_flags.sh -o *+ -f 32 -t after > testfiles/tests_mulAdd32_after.txt
 $ ./mktests_flags.sh -o *+ -f 32 -t before > testfiles/tests_mulAdd32_before.txt
