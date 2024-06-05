@@ -1,4 +1,4 @@
 fp_test/.HOLMK
 fp_test/.holobjs
-testfiles/*.txt
+testfiles/*mulAdd*
 testfiles/*/
